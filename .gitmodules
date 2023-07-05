@@ -1,3 +1,0 @@
-[submodule "libgit2-src"]
-	path = libgit2-src
-	url = git@github.com:libgit2/libgit2.git
